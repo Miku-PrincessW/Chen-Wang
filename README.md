@@ -1,7 +1,8 @@
 # Hi there, I'm Chen Wang 👋
 ﻿
 > **Independent Researcher | Startup Founder | CS Graduate**
-﻿
+
+
 I am an independent researcher and founder, holding a degree in **Computer Science and Technology**. I am currently transitioning my focus from traditional software development to **Artificial Intelligence** and **Artificial Consciousness**.
 ﻿
 ### 🔬 Current Research Interests
